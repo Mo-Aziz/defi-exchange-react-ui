@@ -3,6 +3,7 @@ import Navbar from "./components/navbar/Navbar";
 import Hero from  "./components/hero/Hero"
 import Footer from "./components/footer/Footer"
 import Features from './components/features/Features';
+import SingUp from './components/singup/SingUp';
 
  
  
@@ -13,6 +14,7 @@ function App() {
  <Navbar/>
  <Hero/>
  <Features/>
+ <SingUp/>
  <Footer/>
 
     </>
