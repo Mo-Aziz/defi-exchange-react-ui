@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="header">
       <div className="container">
-        <div className="logo"><h1>DeFi-nance</h1></div>
+        <div className="logo"><h1>DeFi<span className="primary">nance</span></h1></div>
         <ul className={click ?"nav-menu active": "nav-menu"}>
           <li>
             {" "}
